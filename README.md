@@ -29,7 +29,7 @@ Welcome to the GitHub repository for "The Undecidable" newsletter. This reposito
 
 We welcome contributions from individuals who share our passion for recursion theory, artificial intelligence, and machine learning in the context of software development. If you'd like to contribute articles, code snippets, or resources, please review our [contributing guidelines](contributing/CONTRIBUTING.md).
 
-## Subscribe to "The Recursive Thinker"
+## Subscribe to "The Undecidable"
 
 If you haven't already, we invite you to [subscribe to our newsletter](https://example.com/newsletter) and join our community of "AI enthusiasts." Stay updated on the latest developments, insights, and news at the intersection of these intriguing fields.
 
